@@ -1,7 +1,6 @@
 //============================================================================
 //
 //  DE10-Standard / DE1-SoC / Arrow SoCKit MiSTer hardware abstraction module
-//  2019-12-20
 //  Ported (c)2019 by mazsola2k@modernhackers.com / http://www.modernhackers.com
 //
 //  MiSTer hardware abstraction module
